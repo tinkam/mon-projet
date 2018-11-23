@@ -1,0 +1,1 @@
+web: java -jar target/telcopro-1.0.jar
